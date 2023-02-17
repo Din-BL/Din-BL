@@ -7,7 +7,7 @@ Im a Web Developer
 My journey of becoming a web developer began with a self-taught foundation in HTML, CSS, and JavaScript. Overcoming obstacles and seeking guidance from mentors and peers, I specialized in front-end development and user experience design.
 
 *   🌍  I'm based in Israel, Ramat Gan
-*   ✉️  You can contact me at [Dinz5005@gmail.com](mailto:Dinz5005@gmail.com)### Skills 
+*   ✉️  You can contact me at [Dinz5005@gmail.com](mailto:Dinz5005@gmail.com)
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
