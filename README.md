@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Din 
 ===========================================================================================================================
 
-Im a Web Developer
+I'm a Web Developer
 -------------
 
-My journey of becoming a web developer began with a self-taught foundation in HTML, CSS, and JavaScript. Overcoming obstacles and seeking guidance from mentors and peers, I specialized in front-end development and user experience design.
+My journey began with a self-taught foundation in HTML, CSS, and JavaScript. Overcoming obstacles and seeking guidance from mentors and peers, I specialized in front-end development and user experience design.
 
 *   🌍  I'm based in Israel, Ramat Gan
 *   ✉️  You can contact me at [Dinz5005@gmail.com](mailto:Dinz5005@gmail.com)
