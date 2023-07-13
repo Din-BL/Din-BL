@@ -1,13 +1,14 @@
 
-Hi, my name is Din  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+ Hey there my name is Din
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 ===========================================================================================================================
 
 I'm a full-stack web developer
 -------------
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="300"/>
 
-My journey began with a self-taught foundation in HTML, CSS, and JavaScript.<br> Overcoming obstacles and seeking guidance from mentors and peers, I specialized in front-end development.
-
+My journey began with a self-taught foundation in HTML, CSS, and JavaScript.<br> Overcoming obstacles and seeking guidance from mentors and peers.<br>
+Looking for Full-Stack | Front-End | Back-End position.
 *   🌍  I'm based in Israel, Ramat Gan
 *   ✉️  You can contact me at [Dinz5005@gmail.com](mailto:Dinz5005@gmail.com)
 *   ### Skills
