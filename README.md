@@ -1,15 +1,14 @@
-
- Welcome Aboard
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
+Welcome Aboard
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 ===========================================================================================================================
-I'm Din,  and this is my kingdom
+I'm Din, a full-stack web developer
 -------------
-  <img align="right" alt="Coding"  width="500" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif">
+<img align="right" alt="Coding"  width="500" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif">
 
 *   🌍  I'm based in Israel, Ramat Gan
-*   ✉️  You can contact me at [Dinz5005@gmail.com](mailto:Dinz5005@gmail.com)
+*   ✉️  contact at [Dinz5005@gmail.com](mailto:Dinz5005@gmail.com)
 *   ### Skills
-<p align="left">
+<p >
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
