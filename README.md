@@ -2,12 +2,9 @@
  Hey there my name is Din
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 ===========================================================================================================================
-
 I'm a full-stack web developer
 -------------
   <img align="right" alt="Coding"  width="500" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif">
-  <img align="right" alt="Coding" height="300"  width="500" src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif"/>
-
 
 My journey began with a self-taught foundation in HTML, CSS, and JavaScript.<br> Overcoming obstacles and seeking guidance from mentors and peers.<br>
 Looking for Full-Stack | Front-End | Back-End position.
