@@ -5,14 +5,14 @@ I'm Din, a full-stack web developer
 -------------
 <img align="right" alt="Coding"  width="500" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif">
 
-*   🌍 I'm based in Israel, Ramat Gan
-*   📅 Graduated from HackerU college
-*   📱 Experienced in developing complex web applications
-*   💻 Proficient in HTML, CSS, JavaScript, and React.js
-*   🌱 Passionate about learning new technologies
-*   🔧 Skilled in using Git version control for code management
-*   🏅 Fluent in Hebrew, and English
-*   ✉️ contact at [Dinz5005@gmail.com](mailto:Dinz5005@gmail.com)
+🌍 I'm based in Israel, Ramat Gan <br>
+📅 Graduated from HackerU college  <br>
+📱 Experienced in developing complex web applications  <br>
+💻 Proficient in HTML, CSS, JavaScript, and React.js  <br>
+🌱 Passionate about learning new technologies  <br>
+🔧 Skilled in using Git version control for code management  <br>
+🏅 Fluent in Hebrew, and English  <br>
+✉️ contact at [Dinz5005@gmail.com](mailto:Dinz5005@gmail.com)
 *   ### Skills
 <p >
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
