@@ -9,9 +9,11 @@ I'm Din, a full-stack web developer
 📅 Graduated from HackerU college <br>
 📱 Experienced in developing complex web apps <br>
 💻 Proficient in HTML, CSS, JavaScript, and React.js <br>
+💼 Currently working on a react-hook base project <br>
+🎨 Enjoys creating intuitive and user-friendly apps <br>
 🌱 Passionate about learning new technologies <br>
 🔧 Skilled in using Git version control <br>
-🏅 Fluent in Hebrew, and English <br>
+🏅 Fluent in Hebrew and English <br>
 ✉️ contact at [Dinz5005@gmail.com](mailto:Dinz5005@gmail.com)
 *   ### Skills
 <p >
