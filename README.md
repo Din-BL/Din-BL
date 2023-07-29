@@ -8,7 +8,7 @@ I'm Din, a full-stack web developer
 🌍 I'm based in Israel, Ramat Gan <br>
 📅 Graduated from HackerU college <br>
 📱 Experienced in developing complex web apps <br>
-💻 Proficient in HTML, CSS, JavaScript, and React.js <br>
+💻 Proficient in HTML, CSS, JS, React and Angular <br>
 💼 Currently working on a react-hook base project <br>
 🎨 Enjoys creating intuitive and user-friendly apps <br>
 🌱 Passionate about learning new technologies <br>
