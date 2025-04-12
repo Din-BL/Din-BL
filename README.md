@@ -1,12 +1,12 @@
 Welcome Aboard
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 ===========================================================================================================================
-I'm Din, a full-stack web developer
+I'm Din, a Full-Stack & DevOps Specialist
 -------------
 <img align="right" alt="Coding"  width="500" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif">
 
 🌍 I'm based in Israel, Ramat Gan <br>
-📅 Graduated from HackerU college <br>
+📅 Graduated from HackerU and Infinity Labs <br>
 📱 Experienced in developing complex web apps <br>
 💻 Proficient in HTML, CSS, JS, React, and Angular <br>
 💼 Currently working on a react-hook base project <br>
