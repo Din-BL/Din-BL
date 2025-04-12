@@ -8,8 +8,6 @@ I'm Din, a Full-Stack & DevOps Specialist
 🌍 I'm based in Israel, Ramat Gan <br>
 📅 Graduated from HackerU and Infinity Labs <br>
 📱 Experienced in developing complex web apps <br>
-💻 Proficient in HTML, CSS, JS, React, and Angular <br>
-💼 Currently working on a react-hook base project <br>
 🎨 Enjoys creating intuitive and user-friendly apps <br>
 🌱 Passionate about learning new technologies <br>
 🔧 Skilled in using Git version control <br>
