@@ -11,7 +11,7 @@ I'm Din, a Full-Stack & DevOps Specialist
 📱 Experienced in developing complex web apps <br>
 🌱 Passionate about learning new technologies <br>
 🏅 Fluent in Hebrew and English <br>
-✉️ contact at [Dinz5005@gmail.com](mailto:Dinz5005@gmail.com)
+✉️ contact at [Dinz5005@gmail.com](mailto:Dinz5005@gmail.com) <br>
 *   ### Skills
 <p align="left">
 
@@ -82,8 +82,8 @@ I'm Din, a Full-Stack & DevOps Specialist
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/git.png" width="36" height="36" alt="Git" />
   </a>
-<!--   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-  </a> -->
+  </a>
 
 </p>
