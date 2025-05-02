@@ -6,7 +6,7 @@ I'm Din, a Full-Stack & DevOps Specialist
 <img align="right" alt="Coding"  width="500" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif">
 
 🌍 I'm based in Israel, Ramat Gan <br>
-📅 Graduated from HackerU (Full-Stack Development)<br>
+📅 Graduated from HackerU <br>
 💻 DevOps Developer intern at InfinityLabs R&D <br>
 📱 Experienced in developing complex web apps <br>
 🌱 Passionate about learning new technologies <br>
