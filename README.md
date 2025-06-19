@@ -46,6 +46,9 @@ I'm Din, a DevOps & Full-Stack Developer
   </a>
 
   <!-- Backend -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="24" height="24" alt="Python" />
+  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="24" height="24" alt="Node.js" />
   </a>
@@ -58,6 +61,9 @@ I'm Din, a DevOps & Full-Stack Developer
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="24" height="24" alt="MySQL" />
   </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="24" height="24" alt="PostgreSQL" />
+  </a>
 
   <!-- DevOps -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -69,11 +75,17 @@ I'm Din, a DevOps & Full-Stack Developer
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="24" height="24" alt="AWS" />
   </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="24" height="24" alt="Google Cloud" />
+  </a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="24" height="24" alt="Terraform" />
   </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="24" height="24" alt="Jenkins" />
+  </a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="24" height="24" alt="Ansible" />
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="24" height="24" alt="Linux" />
@@ -82,6 +94,9 @@ I'm Din, a DevOps & Full-Stack Developer
   <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/git.png" width="24" height="24" alt="Git" />
+  </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="24" height="24" alt="GitLab" />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="24" height="24" alt="Figma" />
